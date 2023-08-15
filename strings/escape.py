@@ -5,3 +5,6 @@ print(txt)
 print(secretCode)  # output: Hello
 print("\112\141\163\160\145\162")  # output: Jasper - in octal value
 print("\x4A\x61\x73\x70\x65\x72")  # output: Jasper - in hex value
+
+# ASCII Table
+# https://www.ibm.com/docs/en/aix/7.2?topic=adapters-ascii-decimal-hexadecimal-octal-binary-conversion-table
