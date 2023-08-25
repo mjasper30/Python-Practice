@@ -19,3 +19,10 @@ print(len(person1))
 
 print(type(person))
 print(type(person1))
+
+"""
+*Set items are unchangeable, but you can remove and/or add items whenever you like.
+
+*As of Python version 3.7, dictionaries are ordered. In Python 3.6 and earlier, dictionaries are unordered.
+
+"""
