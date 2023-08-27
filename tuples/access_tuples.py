@@ -1,4 +1,4 @@
-fruits = ["Orange", "Apple", "Grapes", "Mango", "Cherry"]
+fruits = ("Orange", "Apple", "Grapes", "Mango", "Cherry")
 
 print(fruits[1])
 print(fruits[-1])
