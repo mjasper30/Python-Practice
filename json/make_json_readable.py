@@ -19,3 +19,5 @@ print(json.dumps(x, indent=4))
 # use . and a space to separate objects, and a space, a = and a space to separate keys from their values:
 print(json.dumps(x, indent=4, separators=(". ", " = ")))
 
+# sort the result alphabetically by keys:
+print(json.dumps(x, indent=4, sort_keys=True))
